@@ -1,0 +1,6 @@
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\Merge_Sort3\Merge_Sort3\bin\Debug\Merge_Sort3.exe.config
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\Merge_Sort3\Merge_Sort3\obj\Debug\Merge_Sort3.csprojResolveAssemblyReference.cache
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\Merge_Sort3\Merge_Sort3\bin\Debug\Merge_Sort3.exe
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\Merge_Sort3\Merge_Sort3\bin\Debug\Merge_Sort3.pdb
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\Merge_Sort3\Merge_Sort3\obj\Debug\Merge_Sort3.exe
+C:\Users\Z585\Documents\Visual Studio 2012\Projects\Merge_Sort3\Merge_Sort3\obj\Debug\Merge_Sort3.pdb

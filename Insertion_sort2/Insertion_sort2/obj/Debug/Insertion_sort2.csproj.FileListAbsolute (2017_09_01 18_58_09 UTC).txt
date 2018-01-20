@@ -1,0 +1,6 @@
+c:\users\z585\documents\visual studio 2012\Projects\Insertion_sort2\Insertion_sort2\bin\Debug\Insertion_sort2.exe.config
+c:\users\z585\documents\visual studio 2012\Projects\Insertion_sort2\Insertion_sort2\bin\Debug\Insertion_sort2.exe
+c:\users\z585\documents\visual studio 2012\Projects\Insertion_sort2\Insertion_sort2\bin\Debug\Insertion_sort2.pdb
+c:\users\z585\documents\visual studio 2012\Projects\Insertion_sort2\Insertion_sort2\obj\Debug\Insertion_sort2.csprojResolveAssemblyReference.cache
+c:\users\z585\documents\visual studio 2012\Projects\Insertion_sort2\Insertion_sort2\obj\Debug\Insertion_sort2.exe
+c:\users\z585\documents\visual studio 2012\Projects\Insertion_sort2\Insertion_sort2\obj\Debug\Insertion_sort2.pdb
